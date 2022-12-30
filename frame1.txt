@@ -1,39 +1,39 @@
-                               [khaki1]S
-                              :$$
-                         seaae$$$Naaaae
-                           R$S$D$SS$R
-                             $SSSS$
-                            @$SP $SD
-                           z$#"   #$b
-                           [green]" d   'N "
-                            #"     ?r
-                          [cyan]xFIFG      [green]"N
-                       ,N>  [cyan]@EGHR#     [green]'S
-                     $*    [dark_red]II   [cyan]@U%&*  [green]"*~
-                      #Trr [dark_red]JJ      [cyan]@!#oL
-                         [green]f            "e,
-                        [deep_pink2]$xR%Gd           [green]^"
-                     .M     [deep_pink2]W*PSwet       [green]S$b.R
-                   .*           [deep_pink2]@Q@/Rert   [green]..*
-                qo#                  [deep_pink2]H#@P#U~
-                  [green]S$                    'N
-                    [green_yellow]^$#e$WR&%#         [dodger_blue3]VV [green]"N.
-                  .S\   [green_yellow]%EeG#$%aHJ     [dodger_blue3]WW   [green]S..
-               ,.*          [green_yellow]#r%EST&$Fe$       [green]"*****.
-            od#                    [green_yellow]QEPr&*QEC#       [green]"
-         a""             [pale_green1]EE            [green_yellow]IC$E$Tf$ds [green]:"
-         M               [pale_green1]CC                [green_yellow]$%y&.$$F`
-          [green]\"P..                                $E."
-             '**..                               *..
-               [magenta3]H"Oi*&#@t%$sJ                       [green]'*oo.
-              P     [magenta3]Te$%dQvER8*&@           [purple]UU         [green]'####*oooo
-           .e"            [magenta3]IOU&^@gJs$#       [purple]YY                 [green]s"
-         $P`                 [magenta3]Je$#&@nOP*gS                    [green].P
-      M$~        [yellow]OO               [magenta3]QNM&%@PJc*$             [green]$$*
-       "'        [yellow]PP                    [magenta3]OX%$~BER#%e       [green]"*
-        '#F                                [magenta3]#@'JuIsSs.##'"'
-          [green]ewQo#SR@E^#L                        @P##~
-        [deep_sky_blue2].___..___,   [green]WR$rJ''?L$$&I#@J"rQRZ%@E'N      [blue]._=__=_.
-        [white]{        |         [orange4]o        o                [deep_pink2]|      |
-        [white]|   [orange1]20   [white]|         [orange4]z        n                [deep_pink2]|  [dark_orange]23  [deep_pink2]|
-        [deep_sky_blue2]$__._,,._S         [orange4]n.,wa.SSSz                [blue]#___,._$
+*   *   *   *   *   *   *   *  [khaki1]S[white]*   *   *   *   *   *   *   *   *
+  *   *   *   *   *   *   *   [khaki1]:$$[white] *   *   *   *   *   *   *   *   *
+*   *   *   *   *   *   *[khaki1]seaae$$$Naaaae[white] *   *   *   *   *   *   *
+  *   *   *   *   *   *   *[khaki1]R$S$D$SS$R[white] *   *   *   *   *   *   *   *
+*   *   *   *   *   *   *   *[khaki1]$SSSS$[white] *   *   *   *   *   *   *   *
+  *   *   *   *   *   *   * [khaki1]@$SP $SD[white]  *   *   *   *   *   *   *   *
+*   *   *   *   *   *   *  [khaki1]z$#"[white]*  [khaki1]#$b[white]   *   *   *   *   *   *   *
+  *   *   *   *   *   *   *[green]" d   'N "[white] *   *   *   *   *   *   *   *
+*   *   *   *   *   *   *   [green]#"     ?r[white]   *   *   *   *   *   *   *
+  *   *   *   *   *   *   [cyan]xFIFG      [green]"N[white]   *   *   *   *   *   *   *
+*   *   *   *   *   *  [green],N>  [cyan]@EGHR#     [green]'S[white]   *   *   *   *   *   *
+  *   *   *   *   *  [green]$*    [dark_red]II   [cyan]@U%&*  [green]"*~[white]    *   *   *   *   *   *
+*   *   *   *   *   * [green]#Trr [dark_red]JJ      [cyan]@!#oL[white]*   *   *   *   *   *   *
+  *   *   *   *   *   *  [green]f            "e,[white] *   *   *   *   *   *   *
+*   *   *   *   *   *   [deep_pink2]$xR%Gd           [green]^"[white] *   *   *   *   *   *
+  *   *   *   *   *  [green].M     [deep_pink2]W*PSwet       [green]S$b.R[white]   *   *   *   *   *
+*   *   *   *   *  [green].*           [deep_pink2]@Q@/Rert   [green]..*[white]  *   *   *   *   *
+  *   *   *   * [green]qo#                  [deep_pink2]H#@P#U~[white]  *   *   *   *   *   *
+*   *   *   *   * [green]S$                    'N[white]  *   *   *   *   *   *
+  *   *   *   *   * [green_yellow]^$#e$WR&%#         [dodger_blue3]VV [green]"N.[white] *   *   *   *   *   *
+*   *   *   *   * [green].S\   [green_yellow]%EeG#$%aHJ     [dodger_blue3]WW   [green]S..[white] *   *   *   *   *
+  *   *   *   *[green],.*          [green_yellow]#r%EST&$Fe$       [green]"*****.[white] *   *   *   *
+*   *   *   [green]od#                    [green_yellow]QEPr&*QEC#       [green]"[white]   *   *   *
+  *   *  [green]a""             [pale_green1]EE            [green_yellow]IC$E$Tf$ds [green]:"[white]  *   *   *   *
+*   *   *[green]M               [pale_green1]CC                [green_yellow]$%y&.$$F`[white]*   *   *   *
+  *   *   [green]\"P..                                $E."[white]   *   *   *   *
+*   *   *   *[green]'**..                               *..[white]*   *   *   *
+  *   *   *   *[magenta3]H"Oi*&#@t%$sJ                       [green]'*oo.[white]  *   *   *
+*   *   *   * [green]P     [magenta3]Te$%dQvER8*&@           [purple]UU         [green]'####*oooo[white]
+  *   *   *[green].e"            [magenta3]IOU&^@gJs$#       [purple]YY                 [green]s"[white] *
+*   *   *[green]$P`                 [magenta3]Je$#&@nOP*gS                    [green].P[white] *
+  *   [green]M$~        [yellow]OO               [magenta3]QNM&%@PJc*$             [green]$$*[white] *   *
+*   *  [green]"'        [yellow]PP                    [magenta3]OX%$~BER#%e       [green]"*[white] *   *
+  *   * [green]'#F                                [magenta3]#@'JuIsSs.##'"'[white]*   *   *
+*   *   * [green]ewQo#SR@E^#L                        @P##~[white] *   *   *   *
+  *   * [deep_sky_blue2].___..___,[white]*  [green]WR$rJ''?L$$&I#@J"rQRZ%@E'N[white]   *  [blue]._=__=_.[white] *   *
+*   *   [white]{        |[white]  *   *  [orange4]o        o[white]   *   *   *   *[deep_pink2]|      |[white]   *
+  *   * [white]|   [orange1]20   [white]|[white]*   *   *[orange4]z        n[white] *   *   *   *  [deep_pink2]|  [dark_orange]23  [deep_pink2]|[white] *   *
+*   *   [deep_sky_blue2]$__._,,._S[white]  *   *  [orange4]n.,wa.SSSz[white]   *   *   *   *[blue]#___,._$[white]   *

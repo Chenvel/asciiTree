@@ -29,7 +29,7 @@ def animate_tree(files):
         else:
             frame_counter += 1
 
-        time.sleep(1)
+        time.sleep(0.35)
         os.system('clear')
 
 
