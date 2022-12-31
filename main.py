@@ -1,10 +1,8 @@
 import time
 
-import os
 from rich import print
 
 filenames = ["frame1.txt", "frame2.txt", "frame3.txt", "frame4.txt"]
-os.system('clear')
 
 
 def animate_tree(files):
@@ -29,8 +27,7 @@ def animate_tree(files):
         else:
             frame_counter += 1
 
-        time.sleep(0.35)
-        os.system('clear')
+        time.sleep(0.15)
 
 
 animate_tree(filenames)
