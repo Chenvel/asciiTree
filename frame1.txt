@@ -23,7 +23,7 @@
   *   *   * [green]od#                    [green_yellow]QEPr&*QEC#       [green]"[white] *   *   *
          [green]a""             [pale_green1]EE            [green_yellow]IC$E$Tf$ds [green]:"[white]
 *   *   *[green]M               [pale_green1]CC                [green_yellow]$%y&.$$F`[white]*   *   *   *
-          [green]\"P..                                $E."[white]
+         [green]\"P..                                $E."[white]
   *   *   *  [green]'**..                               *..[white]  *   *   *
                [magenta3]H"Oi*&#@t%$sJ                       [green]'*oo.[white]
 *   *   *   * [green]P     [magenta3]Te$%dQvER8*&@           [purple]UU         [green]'####*oooo[white]
@@ -32,7 +32,7 @@
       [green]M$~        [yellow]OO               [magenta3]QNM&%@PJc*$             [green]$$*[white]
 *   *  [green]"'        [yellow]PP                    [magenta3]OX%$~BER#%e       [green]"*[white] *   *
         [green]'#F                                [magenta3]#@'JuIsSs.##'"'[white]
-  *   *   * [green]ewQo#SR@E^#L                        @P##~[white]   *   *   *
+  *   *   [green]ewQo#SR@E^#L                        @P##~[white]   *   *   *
         [deep_sky_blue2].___..___,[white]   [green]WR$rJ''?L$$&I#@J"rQRZ%@E'N[white]      [blue]._=__=_.[white]
 *   *   [white]{        |[white]  *   *  [orange4]o        o[white]   *   *   *   *[deep_pink2]|      |[white]   *
         [white]|   [orange1]20   [white]|[white]         [orange4]z        n[white]                [deep_pink2]|  [dark_orange]23  [deep_pink2]|[white]
